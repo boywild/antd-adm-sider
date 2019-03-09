@@ -13,14 +13,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/AlanWei/react-sider.git"
+        "url": "git+https://github.com/boywild/antd-adm-sider.git"
     },
-    "author": "Alan Wei <alanweichangran@gmail.com>",
+    "author": "chentian",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/AlanWei/react-sider/issues"
+        "url": "https://github.com/boywild/antd-adm-sider/issues"
     },
-    "homepage": "https://github.com/AlanWei/react-sider#readme",
+    "homepage": "https://github.com/boywild/antd-adm-sider#readme",
     "devDependencies": {
         "babel-cli": "^6.26.0",
         "babel-core": "^6.26.3",

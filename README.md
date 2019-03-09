@@ -17,7 +17,7 @@ Lightweight [Ant Design Pro](https://pro.ant.design/) like `<Sider />` component
 ## Installation
 
 ```bash
-yarn add react-sider react react-router-dom lodash antd
+yarn add antd-adm-sider react react-router-dom lodash antd
 ```
 
 ## Preview
@@ -49,8 +49,8 @@ yarn add react-sider react react-router-dom lodash antd
 ## Example
 
 ```javascript
-import ReactSider from 'react-sider';
-import 'react-sider/lib/index.css';
+import ReactSider from 'antd-adm-sider';
+import 'antd-adm-sider/lib/index.css';
 import logo from 'assets/logo.svg';
 
 const menuData = [{
@@ -108,5 +108,5 @@ export default Sider;
 ```
 
 ## Notes
-* `react-sider` will automatically format nested menu path with `/` based on `menuData` structure.
-* Remember to config `less-loader` within your application building process since `react-sider` directly imports `antd` components styles.
+* `antd-adm-sider` will automatically format nested menu path with `/` based on `menuData` structure.
+* Remember to config `less-loader` within your application building process since `antd-adm-sider` directly imports `antd` components styles.
